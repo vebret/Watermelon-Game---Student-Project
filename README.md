@@ -4,7 +4,7 @@
 
 Will you manage to get and combine two Watermelons ?
 
-Clone the repo with ``git clone https://github.com/Pappnschlossa/Ryad_Thibaut_C-_Project.git``, and run the main file to try it!
+Clone the repo with ``git clone https://github.com/vebret/Watermelon-Game---Student-Project.git``, and run the main file to try it!
 
 This project was coded in C++ implementing a Qt interface.
 
